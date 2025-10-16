@@ -5,7 +5,7 @@ public class Main {
         
         // Proper way to convert String to Integer
         Integer num = Integer.parseInt((String) obj);
-        System.out.println(num);
+      
     }
     
     /**
