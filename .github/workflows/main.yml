@@ -49,7 +49,7 @@ Context:
 
 Objectives:
 1) Re-check existing review comments and reply resolved when addressed.
-2) Review the current PR diff and flag only clear, high-severity issues.
+2) Review the current PR diff and flag issues.
 3) Leave very short inline comments (1-2 sentences) on changed lines only and a brief summary at the end.
 
 Procedure:
